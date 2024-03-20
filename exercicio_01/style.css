@@ -1,9 +1,6 @@
 body{
-    background-color: red;
+    text-align: center;
+    background-color: lightcoral;
     font-size: 50px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    color: brown;
 }
